@@ -1,5 +1,5 @@
 # Security Policy
-  CPDDirect uses batch files to get information on the Windows system and files. However, hackers can hack your Microsoft account or PC and use the batch files to get info on your PC. However, with new updates, we are preventing this from happening with getting info through applications. For now, dont let down your gaurd or keep use at a minimum.
+  CPDDirect uses batch files to get information on the Windows system and files. However, hackers can hack your Microsoft account or PC and use the batch files to get info on your PC. However, with new updates, we are preventing this from happening with getting info through applications. For now, dont let down your gaurd or dont download until we release new security updates.
   ## Supported Versions
 
 Use this section to tell people about which versions of your project are
